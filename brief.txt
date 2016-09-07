@@ -1,0 +1,83 @@
+css: brief.css
+
+
+<DIV class="caption" markdown=1>
+#Court name
+## Plaintiff(s) 
+####Case Number
+v.
+#####DIVISION
+### Defendant(s)
+</DIV>
+<DIV class="body" markdown=1>
+#Suggestions in Support of Motion for Unsupportable Request
+
+##Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sapien erat, semper ac elementum sit amet, laoreet et orci. Praesent a eros tempus eros sodales euismod vitae ac nibh. Vivamus scelerisque libero eget augue rutrum aliquam. Duis tempus tincidunt risus at sodales. Nullam suscipit neque et justo luctus nec suscipit nibh pulvinar. Morbi semper, sapien in porta sollicitudin, nisl ligula vulputate lacus, vel hendrerit sapien felis eu nisl. Cras feugiat ligula eget neque interdum ac varius quam tincidunt. Cras et nulla in purus adipiscing gravida. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean dictum sem placerat elit tincidunt sagittis. Duis non felis dui. Nullam vehicula scelerisque lacus. Proin molestie ligula ac sem vulputate sed laoreet augue viverra. Nam dictum vulputate dolor et faucibus. Proin vel lacus vitae magna ornare consequat.
+
+Duis ut risus tellus. Aliquam blandit risus quis tellus pharetra in tempor est hendrerit. Aliquam id orci arcu, quis adipiscing quam. Mauris eu felis dolor. Fusce ullamcorper ultricies arcu, sit amet placerat tellus sagittis ac. Quisque aliquet arcu a odio accumsan viverra. Sed pharetra vulputate sagittis. Quisque blandit rhoncus justo non ultricies. Proin ac felis vel eros volutpat hendrerit et et felis. Mauris condimentum auctor lacus vel sodales. 
+
+##Question Presented
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sapien erat, semper ac elementum sit amet, laoreet et orci. Praesent a eros tempus eros sodales euismod vitae ac nibh. Vivamus scelerisque libero eget augue rutrum aliquam. Duis tempus tincidunt risus at sodales. Nullam suscipit neque et justo luctus nec suscipit nibh pulvinar. Morbi semper, sapien in porta sollicitudin, nisl ligula vulputate lacus, vel hendrerit sapien felis eu nisl. Cras feugiat ligula eget neque interdum ac varius quam tincidunt. Cras et nulla in purus adipiscing gravida. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean dictum sem placerat elit tincidunt sagittis. Duis non felis dui. Nullam vehicula scelerisque lacus. Proin molestie ligula ac sem vulputate sed laoreet augue viverra. Nam dictum vulputate dolor et faucibus. Proin vel lacus vitae magna ornare consequat.
+
+Duis ut risus tellus. Aliquam blandit risus quis tellus pharetra in tempor est hendrerit. Aliquam id orci arcu, quis adipiscing quam. Mauris eu felis dolor. Fusce ullamcorper ultricies arcu, sit amet placerat tellus sagittis ac. Quisque aliquet arcu a odio accumsan viverra. Sed pharetra vulputate sagittis. Quisque blandit rhoncus justo non ultricies. Proin ac felis vel eros volutpat hendrerit et et felis. Mauris condimentum auctor lacus vel sodales. 
+
+##Facts
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sapien erat, semper ac elementum sit amet, laoreet et orci. Praesent a eros tempus eros sodales euismod vitae ac nibh. Vivamus scelerisque libero eget augue rutrum aliquam. Duis tempus tincidunt risus at sodales. Nullam suscipit neque et justo luctus nec suscipit nibh pulvinar. Morbi semper, sapien in porta sollicitudin, nisl ligula vulputate lacus, vel hendrerit sapien felis eu nisl. Cras feugiat ligula eget neque interdum ac varius quam tincidunt. Cras et nulla in purus adipiscing gravida. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean dictum sem placerat elit tincidunt sagittis. Duis non felis dui. Nullam vehicula scelerisque lacus. Proin molestie ligula ac sem vulputate sed laoreet augue viverra. Nam dictum vulputate dolor et faucibus. Proin vel lacus vitae magna ornare consequat.
+
+Duis ut risus tellus. Aliquam blandit risus quis tellus pharetra in tempor est hendrerit. Aliquam id orci arcu, quis adipiscing quam. Mauris eu felis dolor. Fusce ullamcorper ultricies arcu, sit amet placerat tellus sagittis ac. Quisque aliquet arcu a odio accumsan viverra. Sed pharetra vulputate sagittis. Quisque blandit rhoncus justo non ultricies. Proin ac felis vel eros volutpat hendrerit et et felis. Mauris condimentum auctor lacus vel sodales. 
+
+##Standard
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sapien erat, semper ac elementum sit amet, laoreet et orci. Praesent a eros tempus eros sodales euismod vitae ac nibh. Vivamus scelerisque libero eget augue rutrum aliquam. Duis tempus tincidunt risus at sodales. Nullam suscipit neque et justo luctus nec suscipit nibh pulvinar. Morbi semper, sapien in porta sollicitudin, nisl ligula vulputate lacus, vel hendrerit sapien felis eu nisl. Cras feugiat ligula eget neque interdum ac varius quam tincidunt. Cras et nulla in purus adipiscing gravida. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean dictum sem placerat elit tincidunt sagittis. Duis non felis dui. Nullam vehicula scelerisque lacus. Proin molestie ligula ac sem vulputate sed laoreet augue viverra. Nam dictum vulputate dolor et faucibus. Proin vel lacus vitae magna ornare consequat.
+
+Duis ut risus tellus. Aliquam blandit risus quis tellus pharetra in tempor est hendrerit. Aliquam id orci arcu, quis adipiscing quam. Mauris eu felis dolor. Fusce ullamcorper ultricies arcu, sit amet placerat tellus sagittis ac. Quisque aliquet arcu a odio accumsan viverra. Sed pharetra vulputate sagittis. Quisque blandit rhoncus justo non ultricies. Proin ac felis vel eros volutpat hendrerit et et felis. Mauris condimentum auctor lacus vel sodales. 
+
+##Discussion / Argument
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sapien erat, semper ac elementum sit amet, laoreet et orci. Praesent a eros tempus eros sodales euismod vitae ac nibh. Vivamus scelerisque libero eget augue rutrum aliquam. Duis tempus tincidunt risus at sodales. Nullam suscipit neque et justo luctus nec suscipit nibh pulvinar. 
+>Morbi semper, sapien in porta sollicitudin, nisl ligula vulputate lacus, vel hendrerit sapien felis eu nisl. Cras feugiat ligula eget neque interdum ac varius quam tincidunt. Cras et nulla in purus adipiscing gravida. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean dictum sem placerat elit tincidunt sagittis. Duis non felis dui. Nullam vehicula scelerisque lacus. Proin molestie ligula ac sem vulputate sed laoreet augue viverra. Nam dictum vulputate dolor et faucibus. Proin vel lacus vitae magna ornare consequat.
+
+Duis ut risus tellus. Aliquam blandit risus quis tellus pharetra in tempor est hendrerit. Aliquam id orci arcu, quis adipiscing quam. Mauris eu felis dolor. Fusce ullamcorper ultricies arcu, sit amet placerat tellus sagittis ac. Quisque aliquet arcu a odio accumsan viverra. Sed pharetra vulputate sagittis. Quisque blandit rhoncus justo non ultricies. Proin ac felis vel eros volutpat hendrerit et et felis. Mauris condimentum auctor lacus vel sodales. 
+
+### Roman Numeral Main Point
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sapien erat, semper ac elementum sit amet, laoreet et orci. Praesent a eros tempus eros sodales euismod vitae ac nibh. Vivamus scelerisque libero eget augue rutrum aliquam. Duis tempus tincidunt risus at sodales. Nullam suscipit neque et justo luctus nec suscipit nibh pulvinar. Morbi semper, sapien in porta sollicitudin, nisl ligula vulputate lacus, vel hendrerit sapien felis eu nisl. Cras feugiat ligula eget neque interdum ac varius quam tincidunt. Cras et nulla in purus adipiscing gravida. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean dictum sem placerat elit tincidunt sagittis. Duis non felis dui. Nullam vehicula scelerisque lacus. Proin molestie ligula ac sem vulputate sed laoreet augue viverra. Nam dictum vulputate dolor et faucibus. Proin vel lacus vitae magna ornare consequat.
+
+Duis ut risus tellus. Aliquam blandit risus quis tellus pharetra in tempor est hendrerit. Aliquam id orci arcu, quis adipiscing quam. Mauris eu felis dolor. Fusce ullamcorper ultricies arcu, sit amet placerat tellus sagittis ac. Quisque aliquet arcu a odio accumsan viverra. Sed pharetra vulputate sagittis. Quisque blandit rhoncus justo non ultricies. Proin ac felis vel eros volutpat hendrerit et et felis. Mauris condimentum auctor lacus vel sodales. 
+
+#### Capital Letter Argument
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sapien erat, semper ac elementum sit amet, laoreet et orci. Praesent a eros tempus eros sodales euismod vitae ac nibh. Vivamus scelerisque libero eget augue rutrum aliquam. Duis tempus tincidunt risus at sodales. Nullam suscipit neque et justo luctus nec suscipit nibh pulvinar. Morbi semper, sapien in porta sollicitudin, nisl ligula vulputate lacus, vel hendrerit sapien felis eu nisl. Cras feugiat ligula eget neque interdum ac varius quam tincidunt. Cras et nulla in purus adipiscing gravida. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean dictum sem placerat elit tincidunt sagittis. Duis non felis dui. Nullam vehicula scelerisque lacus. Proin molestie ligula ac sem vulputate sed laoreet augue viverra. Nam dictum vulputate dolor et faucibus. Proin vel lacus vitae magna ornare consequat.
+
+Duis ut risus tellus. Aliquam blandit risus quis tellus pharetra in tempor est hendrerit. Aliquam id orci arcu, quis adipiscing quam. Mauris eu felis dolor. Fusce ullamcorper ultricies arcu, sit amet placerat tellus sagittis ac. Quisque aliquet arcu a odio accumsan viverra. Sed pharetra vulputate sagittis. Quisque blandit rhoncus justo non ultricies. Proin ac felis vel eros volutpat hendrerit et et felis. Mauris condimentum auctor lacus vel sodales. 
+##### Small Roman Argument
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sapien erat, semper ac elementum sit amet, laoreet et orci. Praesent a eros tempus eros sodales euismod vitae ac nibh. Vivamus scelerisque libero eget augue rutrum aliquam. Duis tempus tincidunt risus at sodales. Nullam suscipit neque et justo luctus nec suscipit nibh pulvinar. Morbi semper, sapien in porta sollicitudin, nisl ligula vulputate lacus, vel hendrerit sapien felis eu nisl. Cras feugiat ligula eget neque interdum ac varius quam tincidunt. Cras et nulla in purus adipiscing gravida. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean dictum sem placerat elit tincidunt sagittis. Duis non felis dui. Nullam vehicula scelerisque lacus. Proin molestie ligula ac sem vulputate sed laoreet augue viverra. Nam dictum vulputate dolor et faucibus. Proin vel lacus vitae magna ornare consequat.
+
+Duis ut risus tellus. Aliquam blandit risus quis tellus pharetra in tempor est hendrerit. Aliquam id orci arcu, quis adipiscing quam. Mauris eu felis dolor. Fusce ullamcorper ultricies arcu, sit amet placerat tellus sagittis ac. Quisque aliquet arcu a odio accumsan viverra. Sed pharetra vulputate sagittis. Quisque blandit rhoncus justo non ultricies. Proin ac felis vel eros volutpat hendrerit et et felis. Mauris condimentum auctor lacus vel sodales. 
+</div>
+<DIV type="sig" id="sig" markdown=1>
+
+Respectfully submitted,
+
+Firm
+
+s/ 
+
+By: Attorney
+
+Bar Number
+
+Address 1
+
+Address 2
+
+phone: 
+facsimile: 
+
+</div>

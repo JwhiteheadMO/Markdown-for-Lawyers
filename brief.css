@@ -1,0 +1,52 @@
+body {font-family:"Times New Roman",Times,serif;
+	font-size:12pt; 
+	counter-reset:section; 
+	counter-reset:subsection;
+	counter-reset:subpoint;
+	margin-left:11%;
+	margin-right:11%;
+	max-width:800px;	
+	display:block;
+	}
+
+
+h1 {text-align:center;font-weight:bold;text-decoration:underline;text-transform:uppercase;font-size:12pt; line-height: 100%;}
+h2 {text-align:center;font-weight:bold;text-transform:uppercase; font-size:12pt;line-height: 100%;}
+h3 {text-align:left;font-weight:bold;font-size:12pt;line-height: 100%;}
+h4 {text-align:left;font-weight:bold;font-size:12pt;line-height: 100%;}
+h5 {text-align:left;font-weight:bold;font-size:12pt;line-height: 100%;}
+
+
+div.body h3:before
+{counter-increment:section;
+content:""counter(section, upper-roman) ".  ";
+}
+
+div.body h4:before
+{counter-increment:subsection;
+content:""counter(subsection, upper-latin) ".  ";
+}
+div.body h5:before
+{counter-increment:subpoint;
+content:""counter(subpoint, lower-roman) ".  ";
+}
+
+p {text-align:justify;text-indent:50px; line-height:200%;width: 10vw;}
+blockquote p {line-height:100%;}
+
+div#sig {font-family:"Times New Roman",Times,serif;
+	font-size:12pt;
+	margin-left:50%;
+	line-height:100%; }
+
+/* COURT SELECTORS */
+.caption {text-align:center;font-weight:bold;text-transform:uppercase; }
+div.caption h1 {text-align:center; font-weight: bold; text-transform:uppercase; font-size: 12pt; width:100%; height: 50px; margin-left:0%;}
+
+div.caption h2 {text-align:left; font-weight: bold; text-transform:uppercase; font-size: 12pt; width: 40%; }
+div.caption h2:after {content: ", Plaintiff(s)";}
+div.caption h3 {text-align:left; font-weight: bold; text-transform:uppercase; font-size: 12pt; width: 40%; }
+div.caption h3:after {content:", Defendant(s)";}
+div.caption h4 {text-align:left; font-weight:bold; text-transform:uppercase; font-size: 12pt; width: 50%;  margin-left:60%;}
+div.caption h5 {text-align:left; font-weight:bold; text-transform:uppercase; font-size: 12pt; width: 50%; margin-left:60%;}
+div#sig p {line-height: 50%;}
