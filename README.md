@@ -34,7 +34,9 @@ I created this repository in 2012. I wanted to show a bit of my workflow, where 
 We're a long way from Courts accepting xml or text filings.  But markdown is a good first step toward separating legal argument  from legal typesetting.  They're two different skills, and it's more efficient to focus on them one at a time. 
 
 Jon Whitehead
+
 jon@whiteheadlawllc.com
+
 @jrwhitehead
 
 
