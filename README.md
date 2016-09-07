@@ -8,9 +8,9 @@ This project makes a more granular claim:  *the Law is coding*.
 
 By saying "the law is coding," I mean that legal writing is like software engineering.  Lawyers produce pleadings and briefs, often working together in firms.  Those documents interact with the elements of common law and statutory law objects. They can be fabulously complex. 
 
-Software developers do a similar thing. They produce massive projects of complex computer instructions.   
+Software developers do a similar thing. They produce massive projects of complex computer instructions. But those projects are, essentially, technical documents.
 
-IT tools have seen a revolution in the last three decades. They support amazing complex projects, and they allow fantastic amounts of collaboration.  Coding projects often have similar structures, so even neophytes can suggest imporvements.   And the skills learned in one project are often transferable.     
+IT tools have seen a revolution in the last three decades. They support amazingly complex projects, and they allow fantastic amounts of collaboration.  Coding projects often have similar structures, so even neophytes can suggest imporvements.   And the skills learned in one project are often transferable to another, with little training.     
 
 In the legal industry, our tools have stagnated: we rely on Microsoft Word where we can't rely on WordPerfect.  And even there, we're stunted;  in twelve years of practice, I've never received a document from another lawyer that used Word's style sheets correctly.     
 
