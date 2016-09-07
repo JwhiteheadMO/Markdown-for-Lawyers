@@ -4,7 +4,7 @@ Larry Lessig is famous for saying "Code is law."  And some lawyers have suggeste
 
 This project makes a more granular claim:  *the Law is coding*. 
 
-## Coders > lawyers @ documents.  
+## Coders > lawyers @ technical documents  
 
 By saying "the law is coding," I mean that legal writing is like software engineering.  Lawyers produce pleadings and briefs, often working together in firms.  Those documents interact with the elements of common law and statutory law objects. They can be fabulously complex. 
 
