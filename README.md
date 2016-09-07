@@ -1,8 +1,8 @@
 # Markdown-for-Lawyers
 
-Larry Lessig is famous for saying "Code is law."  And some lawyers have suggested that the legal and technical uses of the word "Code" is similar.  
+Larry Lessig is famous for saying "Code is law."  And some lawyers have suggested that the legal and technical uses of the word "code" are similar.  
 
-This project makes a more granular statement:  *the Law is coding*. 
+This project makes a more granular claim:  *the Law is coding*. 
 
 ## Coders > lawyers @ documents.  
 
