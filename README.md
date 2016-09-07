@@ -6,31 +6,36 @@ This project makes a more granular statement:  *the Law is coding*.
 
 ## Coders > lawyers @ documents.  
 
-By saying "the law is coding," I mean that the practice of legal writing is similar to the end-product of software engineering: sets of documents that are fabulously complex, and often the product of collaboration.  Lawyers produce pleadings and briefs, often working together in firms.  The legal content of those pleadings and briefs are interacting with common law and statutory law objects, which often have several key properties or elements.    
+By saying "the law is coding," I mean that legal writing is like software engineering.  Lawyers produce pleadings and briefs, often working together in firms.  Those documents interact with the elements of common law and statutory law objects. They can be fabulously complex. 
 
-Software developers do a similar thing. They produce massive projects of intensely complex computer instructions, manipulating objects, to acheive a desired result.  And the tools available to coders allow even neophytes to suggest minor modifications to major software projects.   Those skills are often transferrable from project to project.   
+Software developers do a similar thing. They produce massive projects of complex computer instructions.   
 
-In the last twenty years, the development of knowledge-economy collaboration tools for producing code documents has skyrocketed.  In the legal industry, tools have stagnated: we rely on Microsoft Word where we can't rely on WordPerfect.  And even there, we're stunted;  in twleve years of practice, I've never received a document from another lawyer that actually used Word's styling capabilities.     
+In the last twenty years has seen a revolution in the development and maturity of tools for IT collaboration.  Coding projects often have a similar structure.  Even neophytes can suggest minor modifications to major software projects.   And those skills are often transferable from project to project.   
+
+In the legal industry, tools have stagnated: we rely on Microsoft Word where we can't rely on WordPerfect.  And even there, we're stunted;  in twelve years of practice, I've never received a document from another lawyer that used Word's styles correctly.     
 
 ## Legal Typetsetting Malpractice
-Some of that stagnation arises out of the lawyerly duty to operate a small typesetting firm along with explaining the law.  If you look at the "local rules" of many courts, you will find complex typesetting preferences set down with the force of law.  A violation of those rules carries the implicit threat of professional malpractice by the attorney.    U.S. District Judge James Bredar of Maryland recently criticized parties for putting references to authorities in footnotes rather than in the body of the text, citing the Bluebook, an influential manual of legal citation. “Future noncompliant filings will be stricken without prior notice." In fact, the rule cited is not nearly so firm, and that many well-respected legal writers (like Bryan Garner) prefer cases in footnotes, to avoid breaking up the text. But highly paid lawyers who do not konw Judge Bredar's footnote preference can loose their client's cases.  
+Some of that stagnation arises out of the lawyer's duty to operate a small typesetting firm along with explaining the law.  If you look at the "local rules" of many courts, you will find complex typesetting preferences set down with the force of law.  A violation of those rules carries the threat of professional malpractice.   U.S. District Judge James Bredar recently criticized parties for referring to cases in footnotes. He thought the Bluebook demanded references in the body of the brief.   “Future noncompliant filings will be stricken without prior notice." In fact, the rule cited is not nearly so firm.   But even if it was true, why should your highly paid attorney lose your case in front of Judge Bredar based on footnote placement? 
 
-Today's legal profession takes some of the most expensive professionals in the world, and threatens to decide their cases on the basis of typesetting. An obscene amount of money is spent in every major appellate argument on compliance with formatting rules.  Not grammar and syntax, but formatting.  
+Today's legal industry takes some of the most expensive professionals in the world, and decides they can lose based on typesetting. So an obscene amount of time and money goes into in every major appellate argument on compliance with formatting rules.  Not grammar and syntax, but formatting.  
 
 This typesetting layer is a bottleneck collaboration.  Try, just try, to collaborate on formal documents with a major law firm using something other than .pdfs or .docx files.  It will result in a complete breakdown; most of the criticism will be about formatting.  And until the formatting is right, the legal argument won't receive much attention at all.  
 
 ## Separating Content from Style with Markdown
 
-In information technology, most designers acknowledge that content is *separate* from *presentation.*  That is, the wording of the document is a different discipline, a different task, than making that content look good.  The syntax, grammar, and structure of code matters, but it's usually stored in plain text.  This allows widespread cooperation on content.  For example, Docker, an open source software project, has nearly 1,500 contributors on GitHub; the software has created a billion dollar implied market capitalization. 
+In the tech world, most designers try to separate *content * and presentation.*   
 
-One of the best tools for drafting written content in information technolgy is John Gruber's Markdown syntax.  Markdown is plain text.  But it includes structure and formatting symbols, using asterisks, hashtags, and other.  The writer can focus on language.  The formatting of that language is handled software.  This file is written in markdown.  The fonts, headings, spacing, etc., are controlled separately from the text. 
+That is, the wording of the document is a different discipline than making content look good.  The syntax, grammar, and structure of code matters, but it's usually stored in plain text.  This allows widespread cooperation on content.  For example, Docker, an open source software project, has nearly 1,500 contributors on GitHub.  It's software is worth a billion dollars.  It is not a cut-rate strategy to producing technical documents. 
 
-This project was created in 2012, to show lawyers the potential of drafting legal writing in markdown, where the typography is controlled separately.  In this case, I've created a small .css 'style-sheet' that takes my hashtags and asterisks, and turns the rough draft into an .html document that looks fairly close to a Missouri-compliant pleading that could be filed with a court.  We're a long way from Courts accepting xml or text filings, but a good first step is letting lawyers separate legal content from legal typesetting.  They're two different tools, and it's easier to focus on them one at a time. 
+One of the best tools for drafting written content in technology is John Gruber's Markdown syntax.  Markdown is plain text.  But it includes structure and formatting symbols, using asterisks, hashtags, and other.  The writer can focus on language and minimal structure.  Software handles the formatting of that language.  This README.md file is markdown.  A separate bit of code determines how your computer displays the fonts, headings, and footnotes. 
+
+I created this repository in 2012. I wanted to show a bit of my workflow, where I separate legal drafting from legal typesetting.  In the repo, a small .css style-sheet can take my content and turn it into a Word-editable document.  It gets close to a Missouri-compliant pleading, and reduced the amount of time I worry about type while drafting. 
+
+We're a long way from Courts accepting xml or text filings.  But markdown is a good first step toward separating legal argument  from legal typesetting.  They're two different skills, and it's easier to focus on them one at a time. 
 
 Jon Whitehead
 jon@whiteheadlawllc.com
 @jrwhitehead
-
 
 
 
